@@ -1,0 +1,17 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+body {
+     font-family: 'Roboto', sans-serif;
+}
+
+.container {
+     background-color: hsl(0, 90%, 80%);
+}
+
+h1, h2, h3, h4 {
+     text-align: center;
+}
